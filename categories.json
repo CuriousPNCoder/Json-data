@@ -218,7 +218,7 @@
      {
       "id": 5,
       "name": "Google Pixel",
-      "imgsrc": "assets/product4.jpg",
+      "imgsrc": "assets/GooglePixel/product1.jpg",
       "commentstatus": "Best Google Pixel Phone",
       "offer": "Upto 10% off",
       "products": [
@@ -265,7 +265,7 @@
       {
       "id": 6,
       "name": "Poco",
-      "imgsrc": "assets/product4.jpg",
+      "imgsrc": "assets/Poco/product1.jpg",
       "commentstatus": "Best Poco Phone",
       "offer": "Upto 10% off",
       "products": [
