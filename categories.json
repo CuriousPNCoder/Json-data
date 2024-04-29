@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Samsung",
-      "imgsrc": "assets/product1.jpg", 
+      "imgsrc": "assets/Samsung/product1.jpg", 
       "commentstatus": "Best Samsung Phone",
       "offer": "Upto 20% off",
       "products": [
@@ -76,7 +76,7 @@
        {
       "id": 2,
       "name": "Vivo",
-      "imgsrc": "assets/product2.jpg", 
+      "imgsrc": "assets/vivo/product2.jpg", 
         "commentstatus": "Best Vivo Phone",
       "offer": "Upto 20% off",
       "products": [
@@ -124,7 +124,7 @@
     {
       "id": 3,
       "name": "Oppo",
-      "imgsrc": "assets/product3.jpg",  
+      "imgsrc": "assets/Oppo/product3.jpg",  
       "commentstatus": "Best Oppo Phone",
       "offer": "Upto 20% off",
       "products": [
@@ -171,7 +171,7 @@
     {
       "id": 4,
       "name": "Realme",
-      "imgsrc": "assets/product4.jpg",
+      "imgsrc": "assets/Realme/product4.jpg",
       "commentstatus": "Best Realme Phone",
       "offer": "Upto 20% off",
       "products": [
